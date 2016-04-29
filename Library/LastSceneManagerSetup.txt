@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/PeterKoch/Gaze/Demo/Demo Gaze.unity
+  isLoaded: 1
+  isActive: 1
